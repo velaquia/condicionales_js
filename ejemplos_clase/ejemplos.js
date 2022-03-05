@@ -8,7 +8,7 @@
 
 // Ejemplo de condicional "if"
 
-var numero = 20;
+let numero = 20;
 
 if (numero > 10) {
 
@@ -18,11 +18,11 @@ if (numero > 10) {
 
 // Ejemplo de condicional "if..else"
 
-var dinero = false;
+let dinero = false;
 
 console.log("Entramos al supermercado y seleccionamos los productos");
 
-if (dinero == true) {
+if (dinero === true) {
     // Acá entra si el dinero es igual a true
     console.log("Se abona con efectivo la compra");
 } else {
@@ -34,17 +34,17 @@ console.log("Salimos del supermercado con nuestros productos");
 
 // Ejemplo de condicional "if..else" anidado
 
-var tarjeta = true;
-dinero = false;
+let tarjeta = true;
+let dinero = false;
 
 console.log("Entramos al supermercado y seleccionamos los productos");
 
-if (dinero == true) {
+if (dinero === true) {
     // Acá entra si el dinero es igual a true
     console.log("Se abona con efectivo la compra");
 } else {
     // Acá entra si el dinero no es true
-    if (tarjeta == true) {
+    if (tarjeta === true) {
         // Acá entra si tenemos la tarjeta
         console.log("La compra se abona con tarjeta");
     } else {
@@ -70,8 +70,8 @@ console.log("Salimos del supermercado");
 // NOT Lógico                (a!)   --> Devuelve true si el operando es false.
 
 // Construya su operador :D
-var a = true;
-var b = false;
+let a = true;
+let b = false;
 
 if (!a) {
     console.log(true);
@@ -81,7 +81,7 @@ if (!a) {
 
 // Ejemplo de uso de método prompt()
 
-var dato_ingresado = "";
+let dato_ingresado = "";
 
 dato_ingresado = prompt("Esta es la entrada de datos");
 
@@ -89,13 +89,13 @@ console.log(dato_ingresado);
 
 // Ejemplo de uso de método alert()
 
-var mensaje = "";
+let mensaje = "";
 
 alert("Este es el mensaje de alert");
 
 // Ejemplo de uso de método confirm()
 
-var confirmacion = false;
+let confirmacion = false;
 
 confirmacion = confirm("Este mensaje es de confirmación");
 
@@ -106,8 +106,8 @@ confirmacion = confirm("Este mensaje es de confirmación");
 // Mayúscula es el mínimo
 // Minúscula es maximo
 // aa es menor que aaaa, cuenta cantidad de caracteres
-var texto1 = "a";
-var texto2 = "z";
+let texto1 = "a";
+let texto2 = "z";
 
 if (texto1 < texto2) {
     console.log(texto1 + " es menor que " + texto2);
