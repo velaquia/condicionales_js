@@ -6,6 +6,8 @@
  * Este archivo sirve como borrador con el código visto en la clase.
  */
 
+let numero = 20;
+
 // Ejemplo de uso de método prompt()
 let dato_ingresado = "";
 
