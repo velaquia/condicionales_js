@@ -3,7 +3,6 @@
 /* Inove Coding School
  * Ejemplos de código de clase.
  * Condicionales.
- * Este archivo sirve como borrador con el código visto en la clase.
  */
 
 let nombre = prompt("Ingrese su nombre");

@@ -2,9 +2,6 @@
 
 /* Inove Coding School
  * Tarea! Ejercicios avanzados de condicionales.
- * Objetivos: adquirir herramientas para identificar 
- * problemas en el código, dar solución a las consignas planteadas.
- * Seleccionar cada ejercicio cambiando la variable "ejercicio"
  */
 
 // Deben generar el enlace de este documento hacia index.html

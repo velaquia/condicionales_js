@@ -2,9 +2,6 @@
 
 /* Inove Coding School
  * Tarea! Ejercicios básicos de condicionales.
- * Objetivos: adquirir herramientas para identificar 
- * problemas en el código, dar solución a las consignas planteadas.
- * Seleccionar cada ejercicio cambiando la variable "ejercicio"
  */
 
 //  Ejercicios de práctica numérica
