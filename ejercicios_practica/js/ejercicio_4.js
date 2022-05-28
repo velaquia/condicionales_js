@@ -5,8 +5,8 @@
  */
 
 // Ejemplos variables de texto
-var texto1 = '5';
-var texto2 = '7';
+let texto1 = '5';
+let texto2 = '7';
 
 //  Verifique cual cual de los dos textos es mayor alfabéticamente
 //  Imprima en pantalla según corresponda

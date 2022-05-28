@@ -8,9 +8,9 @@
 // Comparadores
 // Ingrese dos números cualesquiera y realice las sigueintes
 // comparaciones entre ellos
-var numero1 = parseInt(prompt('Ingrese el primer número:\n'));
+const numero1 = parseInt(prompt('Ingrese el primer número:\n'));
 
-var numero2 = parseInt(prompt('Ingrese el segundo número:\n'));
+const numero2 = parseInt(prompt('Ingrese el segundo número:\n'));
 
 // Compare cual de los dos números es mayor
 // Imprima en pantalla según corresponda
