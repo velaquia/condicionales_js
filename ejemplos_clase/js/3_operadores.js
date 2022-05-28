@@ -17,38 +17,18 @@
 // Menor o igual que       (a <= b) --> Devuelve true si el operando de la izquierda es menor o igual que el operando de la derecha.
 // AND Lógico              (a && b) --> Devuelve true si ambos operandos son true.
 // OR Lógico               (a || b) --> Devuelve true si uno de los dos operandos es true.
-// NOT Lógico                (a!)   --> Devuelve true si el operando es false.
+// NOT Lógico                (!a)   --> Devuelve true si el operando es false.
 
 // Construya su operador :D
+// Experimente que sucede con cada operador
 let a = true;
 let b = false;
 
-if (!a) {
+if (a === b) {
     console.log(true);
 } else {
     console.log(false);
 }
-
-// Ejemplo de uso de método prompt()
-
-let dato_ingresado = "";
-
-dato_ingresado = prompt("Esta es la entrada de datos");
-
-console.log(dato_ingresado);
-
-// Ejemplo de uso de método alert()
-
-let mensaje = "";
-
-alert("Este es el mensaje de alert");
-
-// Ejemplo de uso de método confirm()
-
-let confirmacion = false;
-
-confirmacion = confirm("Este mensaje es de confirmación");
-alert("Este es el resultado de la confirmación: " + confirmacion);
 
 // Ejemplos de aplicación de operadores relacionales con cadenas de texto.
 
