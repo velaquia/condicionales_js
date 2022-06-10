@@ -7,13 +7,18 @@
 // Deben generar el enlace de este documento hacia index.html
 
 // Ejercicios de práctica numérica
+// En este ejercicio les pediremos que investiguen por su cuentan
+// algunas propiedades de javascript para manipular números
+// usando la librería "Math":
+// https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Math
+
 // Realice un programa que solicite ingresar tres valores de temperatura
 // De las temperaturas ingresadas por consola determinar:
 // 1 - ¿Cuáles de ellas es la máxima temperatura ingresada?
+// Para este caso haga uso de la herramienta "Math.max",
+// investigue y busque como utilizarla.
 // 2 - ¿Cuáles de ellas es la mínima temperatura ingresada?
-// 3 - ¿Cuál es el promedio de las temperaturas ingresadas?
-// En cada caso imprimir en pantalla el resultado
+// Para este caso haga uso de la herramienta "Math.min",
+// investigue y busque como utilizarla.
 
-// IMPORTANTE: Para ordenar las temperatuas debe utilizar condicionales compuestos o anidados,
-// no se busca utilizar bucles o algoritmos de ordenamiento ya que aún no hemos llegado a ese
-// contenido. Recomendamos pensar bien este problema de lógica con un lápiz y papel.
+// En cada caso imprimir en pantalla el resultado
