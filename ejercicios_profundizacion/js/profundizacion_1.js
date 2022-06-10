@@ -7,6 +7,6 @@
 // Deben generar el enlace de este documento hacia index.html
 
 // Ejercicios de práctica numérica
-// Realice un programa que solicite por consola 2 números
+// Realice un programa que solicite por propmt 2 números
 // Calcule la diferencia entre ellos e informe por pantalla
 // si el resultado es positivo, negativo o cero.
