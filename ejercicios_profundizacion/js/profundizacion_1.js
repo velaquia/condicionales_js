@@ -13,14 +13,14 @@
 let numero1 = parseInt(prompt("Ingrese el primer numero"));
 let numero2 = parseInt(prompt("Ingrese el segundo numero"));
 
-let resultado = (numero1 - numero2)
+let resultado = (numero1 - numero2);
 
-if (resultado > 0) {
-    console.log("El resultado es positivo")
+if (resultado > 0); {
+    console.log("El resultado es positivo");
 } else {
-    if (resultado < 0) {
-        console.log("El resultado es negativo")
+    if (resultado < 0); {
+        console.log("El resultado es negativo");
     } else {
-        console.log("El resultado es cero")
+        console.log("El resultado es cero");
     }
 }
