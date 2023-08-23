@@ -10,13 +10,13 @@ let texto2 = '7';
 
 //  Verifique cual cual de los dos textos es mayor alfabéticamente
 //  Imprima en pantalla según corresponda
-if (texto1 > texto2) {
-    console.log(texto1, "es mayor a", texto2)
+if (texto1 > texto2); {
+    console.log(texto1, "es mayor a", texto2);
 }   else {
-        if (texto2 > texto1) {
-            console.log(texto2, "es mayor a", texto1)
+        if (texto2 > texto1); {
+            console.log(texto2, "es mayor a", texto1);
         } else {
-            console.log(texto1, "y", texto2, "son iguales")
+            console.log(texto1, "y", texto2, "son iguales");
         }
 }
 
@@ -27,13 +27,13 @@ if (texto1 > texto2) {
 let Number1 = parseInt(texto1);
 let Number2 = parseInt(texto2);
 
-if (Number1 > Number2) {
-    console.log(Number1, "es mayor a", Number2)
+if (Number1 > Number2); {
+    console.log(Number1, "es mayor a", Number2);
 }   else {
-        if (Number2 > Number1) {
-            console.log(Number2, "es mayor a", Number1)
+        if (Number2 > Number1); {
+            console.log(Number2, "es mayor a", Number1);
         } else {
-            console.log(Number1, "y", Number2, "son iguales")
+            console.log(Number1, "y", Number2, "son iguales");
         }
     }
 
